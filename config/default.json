@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://admin:123321@cluster0.lls3e.mongodb.net/udemyReact?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
